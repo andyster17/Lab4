@@ -17,6 +17,10 @@ Essentially they are saying that gopher failed due to a failure to distribute de
 
 "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers coordinating only through the Internet. " - Eric Raymond. It's clear that linux was designed by the people, for the people. To have a piece of software that evolved in such a democratic way, it only makes sense to use one of the purest forms of an open source license there is , a GPL v2 license. Even Linus Torvalds acknowledges the publics effects as linux went through multiple mutations to become what it is today. It is clear that the software communities contributions have made linux the famound OS we have today, and these contributions can really only be honored by giving Linux a GPL v2 license. 
 
+# Open source business model
+
+https://github.com/niclee500/AutomatedShopBot
+
 # RCOS Project Licenses 
 
 | Project      | License Present | License     |
